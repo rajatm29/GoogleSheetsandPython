@@ -1,5 +1,4 @@
 # GoogleSheetsandPython
-
-Mocking a DB with DB Sheets and using Python to interact with Sheets
-
 [Sheets python api](https://developers.google.com/sheets/api/quickstart/python)
+
+A quick way to show students basic database operations using Sheets as a DB and Python 
